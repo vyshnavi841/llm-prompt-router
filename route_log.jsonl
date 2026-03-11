@@ -1,0 +1,3 @@
+{"intent":"code","confidence":0.91,"user_message":"how do i sort a list in python","final_response":"Use the built-in sorted() function"}
+{"intent":"career","confidence":0.84,"user_message":"I'm not sure what to do with my career","final_response":"What are your current skills and interests?"}{"intent": "unclear", "confidence": 0.0, "user_message": "how do i sort a list in python", "final_response": "Could you clarify your request? Are you asking about coding, data analysis, writing feedback, or career advice?"}
+{"intent": "unclear", "confidence": 0.0, "user_message": "exit()", "final_response": "Could you clarify your request? Are you asking about coding, data analysis, writing feedback, or career advice?"}
